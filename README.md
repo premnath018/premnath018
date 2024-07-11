@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Premnath</h1>
-<h3 align="center">💡📚 I am a passionate Full Stack Developer from India, ready to learn new technologies and enhance my skills continuously.<br> 🚀 💻 A motivated learner and pre-final year student, eager to explore new technologies and contribute to the developer community.<br>⚡ Fast developer and a reliable team member, always ready to take on new challenges and work collaboratively.<br>🌐 Focused on real-time projects and microservices architecture, aiming to scale things efficiently. <br>Let's connect and create something amazing together! 🌟</h3>
+<h3 align="center">💡📚 I am a passionate Full Stack Developer from India, ready to learn new technologies and enhance my skills continuously.🚀 💻 A motivated learner and a student, eager to explore new technologies and contribute to the developer community.⚡ Fast developer and a reliable team member, always ready to take on new challenges and work collaboratively.🌐 Focused on real-time projects and microservices architecture, aiming to scale things efficiently. <br>Let's connect and create something amazing together! 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premnath018&label=Profile%20views&color=0e75b6&style=flat" alt="premnath018" /> </p>
 
