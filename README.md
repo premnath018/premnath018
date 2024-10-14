@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and No SQL Databases**
 
-- 💬 Ask me about **PHP , Laravel , MySql**
+- 💬 Ask me about **PHP , Laravel , MySql and Java**
 
 - 📫 How to reach me **prem185nath@gmail.com**
 
